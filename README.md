@@ -10,4 +10,4 @@ I'm also using an approach to MVP architecture pattern. Thanks to Antonio Leiva'
 * [[Tutorial] Snorkeling with Dagger 2](http://konmik.github.io/snorkeling-with-dagger-2.html)
 * [[Slides] Jake Wharton at Devoxx 2014](https://speakerdeck.com/jakewharton/dependency-injection-with-dagger-2-devoxx-2014)
 * Kotlin fan? [[Github Repository] Example using Kotlin](https://github.com/damianpetla/kotlin-dagger-example)
-* [[Github Repository] Example using Retrolambda/lombok/Butterknife](https://github.com/damianpetla/kotlin-dagger-example)
+* [[Github Repository] Example using Retrolambda/lombok/Butterknife](https://github.com/mgrzechocinski/dagger2-example)
