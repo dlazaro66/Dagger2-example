@@ -12,4 +12,6 @@ I'm also using an approach to MVP architecture pattern. Thanks to Antonio Leiva'
 * Kotlin fan? [[Github Repository] Example using Kotlin](https://github.com/damianpetla/kotlin-dagger-example)
 * [[Github Repository] Example using Retrolambda/lombok/Butterknife](https://github.com/mgrzechocinski/dagger2-example)
 * [[Github Repository] Various examples from different users and from different sources](https://github.com/ersin-ertan/Dagger2Examples)
+* [[Github Repository] u2020 fork using Dagger 2](https://github.com/cgruber/u2020)
+
 
